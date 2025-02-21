@@ -52,5 +52,5 @@ curl -X POST "http://localhost:8000/api/token/" -d "username=your_username&passw
 Проект распространяется под лицензией MIT.
 
 ## Контакты
-Если у вас есть вопросы или предложения, обращайтесь: your.email@example.com
+Если у вас есть вопросы или предложения, обращайтесь: xusanbaevxojiakbar@gmail.com
 
